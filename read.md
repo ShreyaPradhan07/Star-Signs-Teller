@@ -1,13 +1,13 @@
 
-# Zodiac Sign and Age Calculator:
+# Star Signs Teller:
 
 Created a Python application with a graphical user interface (GUI) using Tkinter.
 Input your birthdate and discover your zodiac sign, birth day of the week, and current age effortlessly.
 
 **Tech Stack:**
 
-Developed using Python, with Tkinter for building the interactive and user-friendly interface.
-Utilized datetime calculations for accurate zodiac sign determination and age calculation.
+We built a user-friendly tool using Python and Tkinter, a library for creating graphical interfaces. The tool accurately determines a
+person's zodiac sign and calculates their age using datetime calculations. It's a convenient way to find out your zodiac sign and age quickly and easily.
 
 **Key Features:**
 
